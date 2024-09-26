@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-           we are developing this website for our project
+           we are developing this website for our project-Sparky
           </p>
         </div>
       </div>
