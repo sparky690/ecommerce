@@ -10,7 +10,6 @@ import cors from "cors";
 
 //configure env
 dotenv.config();
-
 //databse config
 connectDB();
 //rest object
