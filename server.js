@@ -13,7 +13,6 @@ dotenv.config();
 
 //databse config
 connectDB();
-
 //rest object
 const app = express();
 
