@@ -15,7 +15,6 @@ dotenv.config();
 connectDB();
 //rest object
 const app = express();
-
 //middelwares
 app.use(cors());
 app.use(express.json());
